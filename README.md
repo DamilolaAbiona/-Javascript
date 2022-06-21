@@ -1,3 +1,4 @@
 # -Javascript
 Task: Write a javascript code that prints out your name, height, and country on the screen
-![js](https://user-images.githubusercontent.com/99470227/174880107-f84b342e-0c19-43f6-92b6-f345e72d222b.jpg)
+
+![jss](https://user-images.githubusercontent.com/99470227/174882324-9a7a7c9e-277c-473b-816a-e2c1962412d6.jpg)
